@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+bitsandbytes
+accelerate
+sentence-transformers
+chromadb
+llama-index
+
