@@ -1,0 +1,42 @@
+question,contexts,answer,ground_truths
+What is machine learning?,"[""Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a
+machine to imitate intelligent human behavior. The goal of AI is to create computer models that exhibit “intelligent behaviors” like humans, according to
+Boris Katz, a principal research scientist and head of the InfoLab Group at CSAIL. This means machines that
+can recognize a visual scene, understand a text written in natural language, or perform an action in the
+physical world.Machine learning is one way to use AI. It was defined in the 1950s by AI pioneer Arthur Samuel as “the field
+of study that gives computers the ability to learn without explicitly being programmed.”
+The definition holds true, according to Mikey Shulman, a lecturer at MIT Sloan and head of machine
+learning at Kensho, which specializes in artificial intelligence for the finance and U.S. intelligence
+communities. He compared the traditional way of programming computers, or “software 1.0,” to baking,
+where a recipe calls for precise amounts of ingredients and tells the baker to mix for an exact amount of
+time. Traditional programming similarly requires creating detailed instructions for the computer to follow.
+But in some cases, writing a program for the machine to follow is time-consuming or impossible, such as
+training a computer to recognize pictures of different people. While humans can do this task easily, it’s
+difficult to tell a computer how to do it. Machine learning takes the approach of letting computers learn to
+program themselves through experience""]",Machine learning is a subfield of artificial intelligence that involves the capability of a machine to imitate intelligent human behavior.,"[""Machine learning is a subfield of artificial intelligence that allows computers to learn and improve from data without being explicitly programmed. It involves training algorithms with labeled or unlabeled data sets to identify patterns, make predictions, or take actions based on the data. Machine learning is used in various applications such as recommendation systems, autonomous vehicles, language translation, and medical diagnosis. It is a critical component of many companies' business models and is being increasingly adopted across industries.""]"
+what is natural language processing?,"[""Natural language processing is a field of machine learning in which machines learn to understand natural
+language as spoken and written by humans, instead of the data and numbers normally used to program
+computers. This allows machines to recognize language, understand it, and respond to it, as well as create
+new text and translate between languages. Natural language processing enables familiar technology like
+chatbots and digital assistants like Siri or Alexa""] ",Natural language processing is a field of machine learning where machines are trained to understand and interpret human language as it is spoken and written,"[""Natural language processing is a field of machine learning where machines are trained to understand and interpret human language as it is spoken and written. This allows machines to recognize, understand, and respond to language, as well as generate new text and translate between languages. Natural language processing is the technology behind familiar applications like chatbots and digital assistants such as Siri or Alexa.""]"
+what is deep learning?,"[""Deep learning networks are neural networks with many layers. The layered network can process extensive
+amounts of data and determine the “weight” of each link in the network — for example, in an image
+recognition system, some layers of the neural network might detect individual features of a face, like eyes,
+nose, or mouth, while another layer would be able to tell whether those features appear in a way that
+indicates a face.
+Like neural networks, deep learning is modeled on the way the human brain works and powers many
+machine learning uses, like autonomous vehicles, chatbots, and medical diagnostics.
+“The more layers you have, the more potential you have for doing complex things well,” Malone said.
+Deep learning requires a great deal of computing power, which raises concerns about its economic and
+environmental sustainability""]",Deep learning is a type of neural network,"[""Deep learning is a type of neural network that consists of multiple layers. These layered networks are capable of processing large amounts of data and determining the weight of each link in the network. For example, in an image recognition system, some layers of the neural network might detect individual features of a face, while another layer would be able to determine whether those features indicate a face. Deep learning is modeled after the way the human brain works and is used in various machine learning applications such as autonomous vehicles, chatbots, and medical diagnostics.""]"
+How businesses are using machine learning?,"[""Machine learning is the core of some companies’ business models, like in the case of Netflix’s suggestions
+algorithm or Google’s search engine. Other companies are engaging deeply with machine learning, though
+it’s not their main business proposition.
+Others are still trying to determine how to use machine learning in a beneficial way. “In my opinion, one of
+the hardest problems in machine learning is figuring out what problems I can solve with machine learning,”
+Shulman said. “There’s still a gap in the understanding.”
+In a 2018 paper, researchers from the MIT Initiative on the Digital Economy outlined a 21-question rubric to
+determine whether a task is suitable for machine learning. The researchers found that no occupation will be
+untouched by machine learning, but no occupation is likely to be completely taken over by it. The way to
+unleash machine learning success, the researchers found, was to reorganize jobs into discrete tasks, some
+which can be done by machine learning, and others that require a human""]",Not using because no trusting in AI,"[""Businesses are using machine learning in various ways. Some companies have made machine learning the core of their business models, such as Netflix's suggestions algorithm and Google's search engine. Other companies are deeply engaging with machine learning, even though it may not be their main business proposition. Machine learning is being used for recommendation algorithms, like the ones behind Netflix and YouTube suggestions, as well as for determining what information appears on social media feeds and for product recommendations. Machine learning is also being used for image analysis and object detection, fraud detection, automatic helplines or chatbots, self-driving cars, and medical imaging and diagnostics.""]"
